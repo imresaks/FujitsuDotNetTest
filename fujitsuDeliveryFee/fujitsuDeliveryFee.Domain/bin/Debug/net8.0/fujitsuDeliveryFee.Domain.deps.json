@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "fujitsuDeliveryFee.Domain/1.0.0": {
+        "runtime": {
+          "fujitsuDeliveryFee.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fujitsuDeliveryFee.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

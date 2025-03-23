@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047FD820-D276-461B-B6A2-F4E998566E39}|fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj|c:\\users\\saksimre\\source\\repos\\fujitsudeliveryfee\\fujitsudeliveryfee.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047FD820-D276-461B-B6A2-F4E998566E39}|fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj|solutionrelative:fujitsudeliveryfee.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA24F370-2D43-46A8-85A5-CD1D3CA8D9DD}|fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj|c:\\users\\saksimre\\source\\repos\\fujitsudeliveryfee\\fujitsudeliveryfee.domain\\fujitsudeliveryfee.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA24F370-2D43-46A8-85A5-CD1D3CA8D9DD}|fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj|solutionrelative:fujitsudeliveryfee.domain\\fujitsudeliveryfee.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "fujitsuDeliveryFee.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "fujitsuDeliveryFee.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:50:55.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fujitsuDeliveryFee.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
+              "RelativeDocumentMoniker": "fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
+              "ToolTip": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
+              "RelativeToolTip": "fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T14:29:02.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

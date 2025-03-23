@@ -1,0 +1,12 @@
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\bin\Debug\net8.0\fujitsuDeliveryFee.Domain.deps.json
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\bin\Debug\net8.0\fujitsuDeliveryFee.Domain.dll
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\bin\Debug\net8.0\fujitsuDeliveryFee.Domain.pdb
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.AssemblyInfoInputs.cache
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.AssemblyInfo.cs
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.sourcelink.json
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.dll
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\refint\fujitsuDeliveryFee.Domain.dll
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\fujitsuDeliveryFee.Domain.pdb
+C:\Users\saksimre\source\repos\fujitsuDeliveryFee\fujitsuDeliveryFee.Domain\obj\Debug\net8.0\ref\fujitsuDeliveryFee.Domain.dll

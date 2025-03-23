@@ -1,0 +1,6 @@
+@fujitsuDeliveryFee.API_HostAddress = http://localhost:5108
+
+GET {{fujitsuDeliveryFee.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

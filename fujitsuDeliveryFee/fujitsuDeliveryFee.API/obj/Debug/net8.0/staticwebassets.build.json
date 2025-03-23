@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BRfYpjl9AZYpwSBGG2sqT24Zr3PcxPjwaU4Ue/9fyYo=",
+  "Source": "fujitsuDeliveryFee.API",
+  "BasePath": "_content/fujitsuDeliveryFee.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
