@@ -1491,6 +1491,40 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
+      "Npgsql/9.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2"
+        },
+        "compile": {
+          "lib/net8.0/Npgsql.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Npgsql.EntityFrameworkCore.PostgreSQL/9.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "[9.0.0, 10.0.0)",
+          "Microsoft.EntityFrameworkCore.Relational": "[9.0.0, 10.0.0)",
+          "Npgsql": "9.0.1"
+        },
+        "compile": {
+          "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -2240,6 +2274,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
           "Microsoft.Extensions.Hosting": "9.0.3",
           "Microsoft.Extensions.Http": "9.0.3",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.1",
           "fujitsuDeliveryFee.Application": "1.0.0",
           "fujitsuDeliveryFee.Domain": "1.0.0"
         },
@@ -5016,6 +5051,38 @@
         "readme.md"
       ]
     },
+    "Npgsql/9.0.1": {
+      "sha512": "aZrXuBUUjRnvjoS4Lq0ZPYe3pnzAfK7TroGNGVpo4FCMBW1ypD/XfTTYjXpeRI8xcX5Otiv535Dy2jQWi98oeA==",
+      "type": "package",
+      "path": "npgsql/9.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net6.0/Npgsql.dll",
+        "lib/net6.0/Npgsql.xml",
+        "lib/net8.0/Npgsql.dll",
+        "lib/net8.0/Npgsql.xml",
+        "npgsql.9.0.1.nupkg.sha512",
+        "npgsql.nuspec",
+        "postgresql.png"
+      ]
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL/9.0.1": {
+      "sha512": "nN9Tjg73Edr4oBhNkBsfHBduNUlDFty1gIX0Ztp0np82ElSCiEcwRuN11Kv4kx2H9VDQaEeMwWAIym5aVsgVyg==",
+      "type": "package",
+      "path": "npgsql.entityframeworkcore.postgresql/9.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll",
+        "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.xml",
+        "npgsql.entityframeworkcore.postgresql.9.0.1.nupkg.sha512",
+        "npgsql.entityframeworkcore.postgresql.nuspec",
+        "postgresql.png"
+      ]
+    },
     "Swashbuckle.AspNetCore/8.0.0": {
       "sha512": "K9FzGTxmwfD+7sVf/FTq/TZFHBTXcROgdcg7gLFwKwgvXwaqTtjGVdam27j0kYfgZZyWlOKr+abmtyd2nAd5eA==",
       "type": "package",
@@ -6357,11 +6424,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.API\\fujitsuDeliveryFee.API.csproj",
+      "projectUniqueName": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.API\\fujitsuDeliveryFee.API.csproj",
       "projectName": "fujitsuDeliveryFee.API",
-      "projectPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.API\\fujitsuDeliveryFee.API.csproj",
+      "projectPath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.API\\fujitsuDeliveryFee.API.csproj",
       "packagesPath": "C:\\Users\\saksimre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.API\\obj\\",
+      "outputPath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6382,11 +6449,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Application\\fujitsuDeliveryFee.Application.csproj": {
-              "projectPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Application\\fujitsuDeliveryFee.Application.csproj"
+            "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Application\\fujitsuDeliveryFee.Application.csproj": {
+              "projectPath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Application\\fujitsuDeliveryFee.Application.csproj"
             },
-            "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj"
+            "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj"
             }
           }
         }

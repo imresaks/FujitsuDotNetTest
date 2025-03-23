@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vc7qEDsHtqc=",
+  "dgSpecHash": "5yffsPVNNEE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Application\\fujitsuDeliveryFee.Application.csproj",
+  "projectFilePath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Application\\fujitsuDeliveryFee.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saksimre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",

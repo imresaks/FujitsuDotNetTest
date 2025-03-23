@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZt40KIw0iw=",
+  "dgSpecHash": "nyZSRjX28bc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Infrastructure\\fujitsuDeliveryFee.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saksimre\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -71,6 +71,8 @@
     "C:\\Users\\saksimre\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\saksimre\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
+    "C:\\Users\\saksimre\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.1\\npgsql.entityframeworkcore.postgresql.9.0.1.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\saksimre\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",

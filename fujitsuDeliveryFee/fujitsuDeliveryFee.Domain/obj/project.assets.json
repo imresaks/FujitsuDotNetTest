@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
       "projectName": "fujitsuDeliveryFee.Domain",
-      "projectPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
+      "projectPath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\fujitsuDeliveryFee.Domain.csproj",
       "packagesPath": "C:\\Users\\saksimre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saksimre\\source\\repos\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\obj\\",
+      "outputPath": "C:\\Users\\saksimre\\source\\repos\\FujitsuDotNetTest\\fujitsuDeliveryFee\\fujitsuDeliveryFee.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
